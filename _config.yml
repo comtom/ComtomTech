@@ -2,30 +2,18 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Comtom Tech
+email: sales@comtomtech.com
+description: "We are a small development team located in Mar del Plata, Argentina. Apps are our passion. Several years of experience and a great team of developers allows us to build awesome stuff. Request an estimate now, our services are also affordable!"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
+  primary: 36acda
+  secondary: 4cc5f2
   secondary-dark: 333
 
 # Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
+- name: Gabriel Mammoli
   pic: 2
   position: Lead Marketer
   social:
@@ -34,36 +22,46 @@ people:
     - title: facebook
       url: #
     - title: linkedin
+      url: https://ar.linkedin.com/in/gabrielmammoli
+
+people:
+- name: Pablo Brown
+  pic: 1
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: https://twitter.com/pgbrown
+    - title: facebook
+      url: #
+    - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Tomás Gonzalez Dowling
   pic: 3
   position: Lead Developer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+      url: https://twitter.com/therealcomtom
+    - title: stack-overflow
+      url: http://stackoverflow.com/users/1945707/tom%C3%A1s-gonzalez-dowling
+    - title: linkedin
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/ComtomTech
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://facebook.com/ComtomTech
+  - title: bitbucket
+    url: https://bitbucket.org/ComtomTech
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/ComtomTech
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 2424 Arenales
+  - line: Mar del Plata, Buenos Aires 7600
 
 # Build settings
 markdown: kramdown
