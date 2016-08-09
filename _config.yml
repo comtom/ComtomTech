@@ -1,10 +1,10 @@
-url: http://comtom.github.io
-baseurl: /agency-jekyll-theme/
+url:http://comtom.github.io
+baseurl:/agency-jekyll-theme/
 
 # Site settings
 title: Comtom Tech
 email: sales@comtomtech.com
-description: "We are a small development team located in Mar del Plata, Argentina. Apps are our passion. Several years of experience and a great team of developers allows us to build awesome stuff. Request an estimate now, our services are also affordable!"
+description:"We are a small development team located in Mar del Plata, Argentina. Apps are our passion. Several years of experience and a great team of developers allows us to build awesome stuff. Request an estimate now, our services are also affordable!"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -61,8 +61,9 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: 2424 Arenales
-  - line: Mar del Plata, Buenos Aires 7600
+  - line: "Mar del Plata, Buenos Aires 7600"
 
 # Build settings
+highlighter: rouge
 markdown: kramdown
 permalink: pretty
