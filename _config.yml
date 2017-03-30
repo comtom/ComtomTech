@@ -1,69 +1,64 @@
-url:http://comtom.github.io
-baseurl:/agency-jekyll-theme/
+url: localhost
+title: "Comtom Tech"
+email: "sales@comtomtech.com"
+description: "We are a small development team located in Mar del Plata, Argentina. Apps are our passion. Several years of experience and a great team of developers allows us to build awesome stuff. Request an estimate now, our services are also affordable!"
 
-# Site settings
-title: Comtom Tech
-email: sales@comtomtech.com
-description:"We are a small development team located in Mar del Plata, Argentina. Apps are our passion. Several years of experience and a great team of developers allows us to build awesome stuff. Request an estimate now, our services are also affordable!"
-
-# Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 36acda
   secondary: 4cc5f2
-  secondary-dark: 333
-
-# Team names, titles and social links
-- name: Gabriel Mammoli
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: https://ar.linkedin.com/in/gabrielmammoli
+  secondary-dark: 333333
 
 people:
-- name: Pablo Brown
+- name: "Pablo Brown"
   pic: 1
-  position: Lead Developer
+  position: "Lead Developer"
   social:
     - title: twitter
-      url: https://twitter.com/pgbrown
+      url: "https://twitter.com/pgbrown"
     - title: facebook
-      url: #
+      url: "https://facebook.com"
     - title: linkedin
-      url: #
+      url: "https://linkedin.com"
 
-- name: Tomás Gonzalez Dowling
-  pic: 3
-  position: Lead Developer
+- name: "Gabriel Mammoli"
+  pic: 2
+  position: "Lead Marketer"
   social:
     - title: twitter
-      url: https://twitter.com/therealcomtom
-    - title: stack-overflow
-      url: http://stackoverflow.com/users/1945707/tom%C3%A1s-gonzalez-dowling
+      url: "https://twitter.com"
+    - title: facebook
+      url: "https://facebook.com"
     - title: linkedin
-      url: #
+      url: "https://ar.linkedin.com/in/gabrielmammoli"
+
+- name: "Tomás Gonzalez Dowling"
+  pic: 3
+  position: "Lead Developer"
+  social:
+    - title: twitter
+      url: "https://twitter.com/therealcomtom"
+    - title: stack-overflow
+      url: "http://stackoverflow.com/users/1945707/tom%C3%A1s-gonzalez-dowling"
+    - title: linkedin
+      url: "https://linkedin.com"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/ComtomTech
+    url: "https://twitter.com/ComtomTech"
   - title: facebook
-    url: https://facebook.com/ComtomTech
+    url: "https://facebook.com/ComtomTech"
   - title: bitbucket
-    url: https://bitbucket.org/ComtomTech
+    url: "https://bitbucket.org/ComtomTech"
   - title: github
-    url: https://github.com/ComtomTech
+    url: "https://github.com/ComtomTech"
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 2424 Arenales
+  - line: "2424 Arenales"
   - line: "Mar del Plata, Buenos Aires 7600"
 
 # Build settings
-highlighter: rouge
+highlighter: true
 markdown: kramdown
 permalink: pretty
