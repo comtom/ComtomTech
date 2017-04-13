@@ -3,8 +3,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Servicios</h2>
-                    <h3 class="section-subheading text-muted">Desarrollo de software ágil con foco en la calidad y la experiencia de usuario.</h3>
+                    <h2 class="section-heading">Services</h2>
+                    <h3 class="section-subheading text-muted">Agile development services with focus in quality and UX.</h3>
                 </div>
             </div>
             <div class="row text-center">
@@ -13,24 +13,24 @@
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Odoo</h4>
-                    <p class="text-muted">Desarrollo e implantación de soluciones a medida basadas en el software open source para planificacion de recursos empresariales (ERP) Odoo.</p>
+                    <h4 class="service-heading">Odoo Apps Development</h4>
+                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Desarrollo de aplicaciones a medida</h4>
-                    <p class="text-muted">Contamos con amplia experiencia desarrollando aplicaciones para satisfacer las necesidades del cliente.</p>
+                    <h4 class="service-heading">Custom App Development</h4>
+                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Consultoria</h4>
-                    <p class="text-muted">Brindamos asesoramiento y consultoria para mejorar su cometitividad, aumentando la satisfaccion de sus clientes y optimizando la gestion de sus procesos, personas y recursos.</p>
+                    <h4 class="service-heading">Consulting</h4>
+                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
                 </div>
             </div>
         </div>
