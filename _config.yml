@@ -4,8 +4,8 @@ email: "sales@comtomtech.com"
 description: "We are a small development team located in Mar del Plata, Argentina. Apps are our passion. Several years of experience and a great team of developers allows us to build awesome stuff. Request an estimate now, our services are also affordable!"
 
 color:
-  primary: 36acda
-  secondary: 4cc5f2
+  primary: 7eb2ff
+  secondary: 0041a1
   secondary-dark: 333333
 
 people:
@@ -24,10 +24,6 @@ people:
   pic: 2
   position: "Lead Marketer"
   social:
-    - title: twitter
-      url: "https://twitter.com"
-    - title: facebook
-      url: "https://facebook.com"
     - title: linkedin
       url: "https://ar.linkedin.com/in/gabrielmammoli"
 

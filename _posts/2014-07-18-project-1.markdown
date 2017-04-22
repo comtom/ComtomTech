@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Sistema Princo
+subtitle: Gestion de salas de profesionales
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -8,8 +8,8 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: CPACF
+category: Ingenieria de software
+description: Desarrollamos una aplicacion con arquitectura cliente-servidor, para gestionar el uso de las computadoras de salas de profesionales. El sistema habilita el uso de cada computadora con credenciales RFID por un tiempo predeterminado y permite que los usuarios realicen impresiones con el saldo que disponen en su cuenta.
 
 ---
