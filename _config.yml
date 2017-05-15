@@ -4,9 +4,9 @@ email: "sales@comtomtech.com"
 description: "We are a small development team located in Mar del Plata, Argentina. Apps are our passion. Several years of experience and a great team of developers allows us to build awesome stuff. Request an estimate now, our services are also affordable!"
 
 color:
-  primary: 7eb2ff
-  secondary: 0041a1
-  secondary-dark: 333333
+  primary: ececec    
+  secondary: 0055d4
+  secondarydark: 3e3e3e
 
 people:
 - name: "Pablo Brown"
