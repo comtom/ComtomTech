@@ -7,7 +7,7 @@
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #{{ site.color.secondarydark }};
+    color: #055ee2;
 }
 
 .text-muted {
@@ -15,7 +15,7 @@ body {
 }
 
 .text-primary {
-    color: #{{ site.color.primary }};
+    color: #055ee2;
 }
 
 p {
@@ -175,7 +175,11 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: transparent;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top.navbar-shrink {
+    background-color: #055ee2;
 }
 
 .navbar-default .navbar-brand {
@@ -214,6 +218,7 @@ fieldset[disabled] .btn-xl.active {
     font-weight: 400;
     letter-spacing: 1px;
     color: #fff;
+    text-align: right;
 }
 
 .navbar-default .nav li a:hover,
@@ -283,11 +288,18 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    margin-top: -14px;
 }
 
+/*
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
+}
+*/
+header .intro-text {
+    padding-top: 8px;
+    padding-bottom: 25px;
 }
 
 header .intro-text .intro-lead-in {
@@ -309,8 +321,8 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 180px;
+        padding-bottom: 319px;
     }
 
     header .intro-text .intro-lead-in {
